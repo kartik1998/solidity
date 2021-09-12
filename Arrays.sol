@@ -1,6 +1,6 @@
 pragma solidity ^0.6.0;
 
-// Arrays, Mapping
+// Arrays
 contract Arrays {
     uint[] public uintArray = [1, 2, 3];
     string[] public stringArray = ["Apple", "banana"];
