@@ -1,7 +1,7 @@
 pragma solidity ^0.6.0;
 // Topics Covered [Variables: {State, Local}, data types, Custom data structures]
 
-contract MyContract {
+contract DataTypesAndStructs {
     string public myString = "Hello, World";
     bytes32 public myBytes32 = "Hello, World";
     int public myInt = 1;
